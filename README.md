@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WEBSITE-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
 </a>
 <a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="www.linkedin.com/in/thahvohn-ptml-a3159a392" alt="LinkedIn"/>
 </a>
 <a href="https://facebook.com/YOUR_PROFILE">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
