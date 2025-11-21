@@ -31,10 +31,6 @@ I'm now actively looking for full-time and part-time jobs and interested in join
   </div>
   <div style="flex: 1; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; padding: 20px; color: white;">
     <h3 style="margin-top: 0; color: white;">Most Used Languages</h3>
-    
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thavon91&theme=transparent&hide_border=true&layout=compact&text_color=ffffff)
-  </div>
-</div>
 
 ## Skills
 
