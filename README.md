@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-This is Hei (havon), an IT professor and NUOL Alumni. Welcome to my GitHub!.
-
-I'm now actively looking for full-time and part-time jobs and interested in joining game development projects.
+This is Hei (havon), an IT professor and NUOL Alumni. Welcome to my GitHub!. I'm now actively looking for full-time and part-time jobs and interested in joining game development projects.
 
 - 🎓 Computer Science Bachelor at **NUOL** [Nov 18]
 - 🚗 **Do road trips and explore nature**
