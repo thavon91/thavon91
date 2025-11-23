@@ -22,12 +22,10 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 - **🎮Games / 🕹️Games / ♟Games...**
 
 ## 📊 GitHub Stats
-    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff)
   </div>
 
 ## Skills
-
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
