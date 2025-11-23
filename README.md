@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-This is Hei (havon), an IT professor and NUOL Alumni. Welcome to my GitHub!. I'm now actively looking for full-time and part-time jobs and interested in joining game development projects.
+Welcome to my GitHub! This is Hei (Thavon), an IT professor, and I'm now actively looking for full-time and part-time jobs and interested in joining game development projects.
 
 - 🎓 Computer Science Bachelor at **NUOL** [Nov 18]
 - 🚗 **Do road trips and explore nature**
@@ -23,7 +23,7 @@ This is Hei (havon), an IT professor and NUOL Alumni. Welcome to my GitHub!. I'm
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff)
   </div>
 
-## Skills
+## 🤹‍♀️Skills
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
