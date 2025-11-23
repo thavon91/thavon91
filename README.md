@@ -26,6 +26,11 @@ I'm now actively looking for full-time and part-time jobs and interested in join
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; padding: 20px; color: white;">
     <h3 style="margin-top: 0; color: white;">Hei's GitHub Stats</h3>
+    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff)
+  </div>
+  <div style="flex: 1; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 8px; padding: 20px; color: white;">
+    <h3 style="margin-top: 0; color: white;">Most Used Languages</h3>
 
 ## Skills
 
