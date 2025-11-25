@@ -6,16 +6,16 @@
 <a href="https://www.linkedin.com/in/hei-thahvohn-a3159a392/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.facebook.com/share/1HXBTVNyrx/">
+<a href="https://facebook.com/YOUR_PROFILE">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="mailto:thavonptml@gmail.com">
+<a href="mailto:youremail@example.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-Welcome to my GitHub! This is Hei (Thavon), an IT professor, and I'm now actively looking for full-time and part-time jobs and interested in joining game development projects.
+Welcome to my GitHub! This is Hei (Thavon), an IT engineer, and I'm now actively looking for full-time and part-time jobs and interested in joining c++ game development projects.
 
-- 🎓 Computer Science Bachelor at **NUOL** [Nov 18]
+- 🎓 Information Technology, Bachelor at **NUOL** [Aug 2018]
 - 🚗 **Do road trips and explore nature**
 - **🎮Games / 🕹️Games / ♟Games...**
 
