@@ -16,10 +16,10 @@ Welcome to my GitHub! This is Hei (Thavon), an IT engineer, and I'm now actively
 - 🚗 Do road trips and explore nature
 - 🎮 Games / 🕹️ Games / ♟ Games...
 
-## 📊 GitHub Streak and Stats
+## 📊 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thavon91&theme=dark)](https://github.com/thavon91)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=dark)](https://github.com/thavon91)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=dark)](https://github.com/thavon91) -->
 
 ## 🤹‍♀️ Skills
 **Languages:**  
