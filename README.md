@@ -20,7 +20,7 @@ Welcome to my GitHub! This is Hei (Thavon), an IT engineer, and I'm now actively
 - 🎮 Games / 🕹️ Games / ♟ Games...
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=dark)](https://github.com/thavon91)
 
 ## 🤹‍♀️ Skills
 **Languages:**  
