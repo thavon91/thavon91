@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/hei-thahvohn-a3159a392/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://facebook.com/YOUR_PROFILE">
+<a href="https://www.facebook.com/share/1B5nm4f9pb/">
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:thavonptml@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -21,7 +21,6 @@ Welcome to my GitHub! This is Hei (Thavon), an IT engineer, and I'm now actively
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&count_private=true&theme=transparent&hide_border=true&include_all_commits=true&text_color=ffffff)
-  </div>
 
 ## 🤹‍♀️ Skills
 **Languages:**  
