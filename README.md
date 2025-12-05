@@ -3,7 +3,7 @@
 <a href="https://github.com/thavon91">
   <img src="https://img.shields.io/badge/WEBSITE-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
 </a>
-<a href="https://www.linkedin.com/in/hei-thahvohn-a3159a392/">
+<a href="www.linkedin.com/in/hei-thon-2051b3274">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.facebook.com/share/1B5nm4f9pb/">
