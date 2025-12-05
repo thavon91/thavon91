@@ -22,7 +22,7 @@ Welcome to my GitHub! This is Hei Thavon (Thahvohn), an IT, Design, Developer, a
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=dark)](https://github.com/thavon91) -->
 
 ## 🤹‍♀️ Skills
-**Languages:**  
+**Programming Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
