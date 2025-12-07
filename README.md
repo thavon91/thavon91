@@ -13,7 +13,7 @@
 Welcome to my GitHub! This is Hei Thavon (Thahvohn), an IT, Design, Developer, and I'm now actively looking for full-time and part-time jobs and interested in joining c++ game development projects.
 
 - 🎓 Information Technology, Bachelor at **NUOL** [Aug 2018] <!-- shoul be link to NUOL -->
-- 🚗 Do road trips and explore nature
+- 🚗 Do road trips, go to concerts, and explore nature
 - 🎮 Games / 🕹️ Games / ♟ Games...
 
 ## 📊 GitHub Streak
