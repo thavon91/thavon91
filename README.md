@@ -1,6 +1,6 @@
 # Hi, I'm Hei 👋
 
-<a href="https://github.com/thavon91">
+<a href="https://thavon91.github.io/web-portfolio/">
   <img src="https://img.shields.io/badge/WEBSITE-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
 </a>
 <a href="https://www.linkedin.com/in/hei-thon-2051b3274/">
