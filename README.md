@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-Welcome to my GitHub! This is Hei Thavon (Thahvohn), an IT, Design, Developer, and I'm now actively looking for full-time and part-time jobs and interested in joining c++ game development projects.
+Welcome to my GitHub! This is Hei Thavon (Thahvohn), an IT, designer, and developer. I'm now actively looking for both full-time and part-time opportunities, and I’m especially interested in joining C++ and JavaScript game development projects.
 
 - 🎓 Information Technology, Bachelor at **NUOL** [Aug 2018] <!-- shoul be link to NUOL -->
 - 🚗 Do road trips, go to concerts, and explore nature
