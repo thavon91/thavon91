@@ -12,7 +12,7 @@
 
 Welcome to my GitHub! This is Hei Thavon (Thahvohn), an IT, designer, and developer. I'm actively looking for both full-time and part-time Product Owner and Producer opportunities, and especially interested in joining C++ and JavaScript game development projects.
 
-- 🎓 Information Technology, Bachelor at **NUOL** [Aug 2018] <!-- shoul be link to NUOL -->
+- 🎓 Information Technology, Bachelor at **[NUOL](https://www.nuol.edu.la/index.php/en/)** [Aug 2018] <!-- shoul be link to NUOL -->
 - 🚗 Do road trips, go to concerts, and explore nature
 - 🎮 Games / 🕹️ Games / ♟ Games...
 
