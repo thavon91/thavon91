@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
-Welcome to my GitHub! This is Thavon ( NickName: Hei ), an IT, designer, and developer. I'm actively looking for both full-time and part-time Product Owner and Producer opportunities, especially interested in joining javascript browser gamee development projects.
+Welcome to my GitHub! This is Thavon ( NickName: Hei ), an IT, designer, and developer. I'm actively looking for both full-time and part-time Product Owner and Producer opportunities, especially interested in joining javascript browser game development projects.
 
 - 🎓 Information Technology, Bachelor at **[NUOL](https://www.nuol.edu.la/index.php/en/)** [Aug 2018] <!-- shoul be link to NUOL -->
 - 🚗 Do road trips, go to concerts, and explore nature
