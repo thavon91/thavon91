@@ -1,46 +1,317 @@
-# Hi, I'm Hei 👋
+<!-- =========================================================
+     THAVON91 GITHUB PROFILE
+     Game Developer × 3D Artist × AI Explorer
+========================================================= -->
 
-<a href="https://thavon91.netlify.app">
-  <img src="https://img.shields.io/badge/WEBSITE-222?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-</a>
-<a href="https://www.linkedin.com/in/hei-thavon-2051b3274/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.facebook.com/share/1B5nm4f9pb/">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
+<div align="center">
 
-Welcome to my GitHub! This is Thavon ( NickName: Hei ), an IT, designer, and developer. I'm actively looking for both full-time and part-time Product Owner and Director opportunities, especially interested in joining javascript browser and Unreal Engine C++ development game projects.
+<img src="./assets/banner.svg" width="100%" alt="Thavon GitHub Banner">
 
-- 🎓 Information Technology, Bachelor at **[NUOL](https://www.nuol.edu.la/index.php/en/)** [Aug 2018] <!-- shoul be link to NUOL -->
-- 🚗 Do road trips, go to concerts, and explore nature
-- 🎮 Games / 🕹️ Games / ♟ Games...
+<br>
 
-## 📊 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thavon91&theme=dark)](https://github.com/thavon91)
+<h1>👋 Hi, I'm Thavon</h1>
 
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=dark)](https://github.com/thavon91) -->
+<h3>
+🎮 Game Developer
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🎨 3D Artist
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 AI Explorer
+</h3>
 
-## 🤹‍♀️ Skills
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=sqlite&logoColor=white)
+<p>
+I build games, interactive experiences, 3D worlds,<br>
+web applications and AI-powered tools.
+</p>
 
-**Non-Programming Languages:**  
-![Lao](https://img.shields.io/badge/ພາສາລາວ-native-blue)
-![Thai](https://img.shields.io/badge/ภาษาไทย-fluent-orange)
-![English](https://img.shields.io/badge/English-intermediate-red)
+</div>
 
-**Tools & Frameworks:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white)
-![Gdevelop](https://img.shields.io/badge/Gdevelop-6C40E8?logo=gdevelop&logoColor=white)
-![Photopea](https://img.shields.io/badge/Photopea-18A0FB?logo=photopea&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+---
+
+## 🎮 About Me
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### Hi, I'm Thavon 👋
+
+I'm a developer interested in:
+
+- 🎮 Game Development
+- 🎨 3D Art & Environment Design
+- 🌐 Interactive Web Experiences
+- 🤖 Artificial Intelligence
+- 📊 Data Visualization
+- ⚙️ Tools & Automation
+
+I enjoy turning ideas into real projects and
+learning new technologies by building things.
+
+<br>
+
+> **Build • Play • Learn • Repeat**
+
+</td>
+
+<td width="45%" valign="top">
+
+### 🧰 Technologies
+
+**Game Development**
+
+`Unreal Engine`  
+`C++`  
+`Blueprint`
+
+**3D**
+
+`Blender`  
+`Three.js`  
+`GLB / FBX`
+
+**Web**
+
+`React`  
+`TypeScript`  
+`Node.js`
+
+**AI**
+
+`Python`  
+`LLM`  
+`Machine Learning`
+
+**Backend**
+
+`Supabase`  
+`PostgreSQL`  
+`Redis`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎮 Game Development
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<img src="./assets/game.svg" width="90">
+
+<h3>Unreal Engine</h3>
+
+C++ • Blueprint  
+Gameplay Systems  
+AI • VFX
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="./assets/web.svg" width="90">
+
+<h3>Three.js</h3>
+
+WebGL • WebGPU  
+3D Interfaces  
+Interactive Worlds
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="./assets/ai.svg" width="90">
+
+<h3>AI Development</h3>
+
+Python • LLMs  
+Automation  
+AI Tools
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎮 Game Prototype
+
+**Unreal Engine + C++**
+
+A game development project focused on
+gameplay systems, characters, environments
+and interactive mechanics.
+
+**Technology**
+
+`Unreal Engine` `C++` `Blueprint`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌌 Three.js Portfolio
+
+**Three.js + React**
+
+An interactive 3D web experience with
+real-time rendering and animated environments.
+
+**Technology**
+
+`Three.js` `React` `WebGL`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Tools
+
+**Python + AI**
+
+Experiments and tools for AI workflows,
+automation and LLM applications.
+
+**Technology**
+
+`Python` `LLM` `API`
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚽ Football Analytics
+
+**Data + Visualization**
+
+Football statistics, player analysis,
+match data and interactive visualization.
+
+**Technology**
+
+`TypeScript` `API` `Supabase`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎮 Game Development
+
+`Unreal Engine` &nbsp;
+`C++` &nbsp;
+`Blueprint`
+
+### 🎨 3D
+
+`Blender` &nbsp;
+`Three.js` &nbsp;
+`WebGL` &nbsp;
+`WebGPU`
+
+### 🌐 Web
+
+`React` &nbsp;
+`TypeScript` &nbsp;
+`JavaScript` &nbsp;
+`Node.js`
+
+### 🤖 AI
+
+`Python` &nbsp;
+`Machine Learning` &nbsp;
+`LLM`
+
+### 🗄️ Backend
+
+`Supabase` &nbsp;
+`PostgreSQL` &nbsp;
+`Redis`
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=thavon91&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=8B949E"
+width="49%"
+>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=thavon91&theme=github-dark-blue&hide_border=true&background=0D1117"
+width="49%"
+>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavon91&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"
+width="50%"
+>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=thavon91&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=39D353&point=FFFFFF"
+width="100%"
+>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Unreal Engine
+      ↓
+Advanced C++
+      ↓
+Real-Time Rendering
+      ↓
+Three.js / WebGPU
+      ↓
+AI + LLM Applications
+      ↓
+Game Development
