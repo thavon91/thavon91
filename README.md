@@ -2,16 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Thavon - Build, Play, Learn, Repeat">
 
-<h1>Hi, I'm Thavon</h1>
-
-<p>
-  <strong>Game Developer</strong> &nbsp; · &nbsp;
-  <strong>3D Artist</strong> &nbsp; · &nbsp;
-  <strong>AI Explorer</strong>
-</p>
-
-<p>Building creative ideas with code, art, and AI.</p>
-
 </div>
 
 <table>
